@@ -1,0 +1,6 @@
+->it is used to specify the behavior of the class .
+->it is a blueprint of a behavior .
+->it cannot have non abstract members, iow it can only have the abstract member ,but abstract class can have abstract as well as non abstract class.
+->up untill java 9 interface cannot be private 
+-> A class can implement multiple interfaces. but class can inherit from only one abstract class
+ 
